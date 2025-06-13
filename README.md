@@ -8,6 +8,7 @@
 ---
 
 - 🔭 I’m currently working on **distributed systems, C/Java, Android native, and CDN engineering**
+- 🌐 I have solid experience with **DNS resolution, domain configuration, CDN integration**, and troubleshooting using tools like `dig`, `nslookup`, and browser DNS debugging.
 - 🌱 I’m learning **AI Principle, JVM Principle, and foundation models**
 - 👯 I’m looking to collaborate on **low-latency systems and AI-enhanced backend projects**
 - 💬 Ask me about **Flink, Kafka, C, NDK, ClickHouse, Redis,...**
@@ -43,6 +44,8 @@
 ![Flink](https://img.shields.io/badge/-Flink-E34F26?style=flat&logo=apache-flink)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake)
 ![NDK](https://img.shields.io/badge/-Android%20NDK-3DDC84?style=flat&logo=android)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx)
+![DNS](https://img.shields.io/badge/-DNS%20解析-0066CC?style=flat&logo=cloudflare)
 
 #### 💻 DevOps & OS
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
